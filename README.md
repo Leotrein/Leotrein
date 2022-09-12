@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Leotrein/Leotrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m studying programming for 1 month
+- 📚 I’m currently learning Java and frameworks
+- 🔭 My interest area is fullstack development
 
-Here are some ideas to get you started:
+### Best technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"/>
+</div>
+  
+### Next steps
+  
+<div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;"/>  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">     
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="max-width: 100%;">   
+</div>
+          
+### Stats
+
+<div>
+  <a href "https://github.com/Leotrein">
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leotrein&layout=compact&langs_count=7&theme=dark"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/?username=Leotrein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
