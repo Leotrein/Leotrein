@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m studying programming for 1 month
+- 🌱 I’m currently studying analysis and system development at Uniritter
 - 📚 I’m currently learning Java and frameworks
 - 🔭 My interest area is fullstack development
 
