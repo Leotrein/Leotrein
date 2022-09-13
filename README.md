@@ -26,7 +26,7 @@
 
 <div>
   <a href "https://github.com/Leotrein">
-    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leotrein&layout=compact&langs_count=7&theme=dark"/>
-    <img height="130cm" src="https://github-readme-stats.vercel.app/api/?username=Leotrein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leotrein&layout=compact&langs_count=7&theme=dark" style="max-width: 100%;"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/?username=Leotrein&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
   </a>
 </div>
