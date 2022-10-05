@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying analysis and system development at Uniritter
-- 📚 I’m currently learning HTML and CSS
+- 📚 I’m currently learning Networks and Web
 - 🔭 My interest area is fullstack development
 - 📌 I want to learn more and get some experience
 
