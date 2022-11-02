@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying analysis and system development at Uniritter
-- 📚 I’m currently learning Networks and Web
-- 🔭 My interest area is fullstack development
+- 📚 I’m currently learning UML
+- 🔭 My interest area is web fullstack development
 - 📌 I want to learn more and get some experience
 
 ### Best technologies
