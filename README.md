@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying analysis and system development at Uniritter
-- 📚 I’m currently learning UML
+- 📚 I’m currently learning Java and Spring framework
 - 🔭 My interest area is web fullstack development
 - 📌 I want to learn more and get some experience
 
