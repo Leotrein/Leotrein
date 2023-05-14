@@ -5,10 +5,10 @@
 
 <h2>Technologies</h2>
 <div>
-  <img align="left" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
-  <img align="left" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"/>
-  <img align="left" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"/>
-  <img align="left" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>   
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>   
 </div><br><br>
 
 <h2>Tools</h2>
