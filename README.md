@@ -11,7 +11,7 @@
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>   
 </div><br><br>
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 <div>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"/>
@@ -20,7 +20,7 @@
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"/>
 </div><br><br>
 
-<h2>Coming soon...</h2>
+<h3>Coming soon...</h3>
 <div>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;"/>
