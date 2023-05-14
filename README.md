@@ -2,7 +2,6 @@
 -   🌱 I’m currently study Computer Science at Uniritter
 -   📌 I’m currently work as a Full Stack Developer at Bem Promotora
 -   🔭 I want to learn more and get some experience
-<br>
 
 ## Technologies 💻
 <div>
