@@ -3,7 +3,7 @@
 -   📌 I’m currently work as a Full Stack Developer at Bem Promotora
 -   🔭 I want to learn more and get some experience
 
-<h2>Technologies</h2>
+<h3>Technologies</h3>
 <div>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"/>
