@@ -3,6 +3,8 @@
 -   📌 I’m currently work as a Full Stack Developer at Bem Promotora
 -   🔭 I want to learn more and get some experience
 
+<br>
+
 ### Technologies 💻
 <div>
   <img align="left" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
