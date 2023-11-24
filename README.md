@@ -8,9 +8,11 @@
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>   
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"/>
 </div><br><br>
 
 <h3>Tools</h3>
@@ -23,9 +25,9 @@
 
 <h3>Coming soon...</h3>
 <div>
-  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width: 100%;"/>
   <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="max-width: 100%;"/>
+  <img align="left" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;"/>
 </div><br><br>
 
 <h2>Stats</h2>
